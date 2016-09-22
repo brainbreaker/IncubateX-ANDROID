@@ -2,6 +2,7 @@
 IncubateX IND hackathon - Top three ideas 
 
 The social network around ideas!
+Find the web app here: https://github.com/brainbreaker/IncubateX-Web
 
 ## Features
 
